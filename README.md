@@ -1,5 +1,5 @@
 # Sorting
-##Implementation
+## Implementation
 ```C++
 
 #include<iostream>
@@ -18,7 +18,7 @@ using namespace std;
    }
 ```
 
-##BubbleSort
+## BubbleSort
 ```C++
 #include<iostream>
 #include<vector>
